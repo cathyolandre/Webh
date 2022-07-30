@@ -1,0 +1,24 @@
+{
+"embeds": [{
+
+"image": {
+
+        "url": "Select the image URL"
+
+      }
+
+}]
+
+"content":" :arrow: This server is STRICTLY for CETs study sessions only. Any discussions or conversations that are not related to this server's aligned objective will be deleted. This includes promotion of any form of social media. Students who will violate this rule will receive a warning. 
+
+:arrow:  The use of discriminatory and/or offensive words and remarks against an individual is not and never will be allowed in this server. This includes homophobia, fatphobia, racism, sexism, and other words that are dehumanizing and degrading
+
+:arrow:  DO NOT spam the chats with irrelevant messages such as chain mails, or meme texts. This is considered disruptive for those who are having a conversation.
+
+:arrow:  NEVER result to doxxing your fellow students for whatever reason there may be without their consent. This includes sending thier photos, their social medias, and/or anything of relation to their personal informations.",
+
+"username":"CETS Bot",
+
+"avatar_url": "Add a link to a new image for the bot",
+
+}
